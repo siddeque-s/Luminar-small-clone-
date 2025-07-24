@@ -23,6 +23,9 @@
 
 .courses{
     list-style: none;
+    margin-right: 40px;
+    
+    display: flex;
    
 }
 .courses li{

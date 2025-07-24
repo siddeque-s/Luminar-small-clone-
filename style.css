@@ -10,6 +10,64 @@
     
    
 } */
+ .unique{
+    background-color: rgb(214, 214, 244);
+    color: rgb(9, 9, 105);
+    width: 23%;
+    font-weight: 600;
+    border-radius: 5px;
+    padding-left: 10px;
+    
+ }
+ 
+
+.courses{
+    list-style: none;
+   
+}
+.courses li{
+    margin-left: 20px;
+    font-weight: 600;
+}
+
+#listss{
+    color: blue;
+}
+#listss span{
+    position: relative;
+    top: -62px;
+    left: 40px;
+    color: #fdfdfd;
+    background-color: blue;
+}
+
+.textssafd{
+    color: rgb(4, 4, 102);
+}
+.textss{
+    color: rgb(116, 38, 116);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .badge-overlay {
   position: absolute;
@@ -40,3 +98,7 @@
 .columns{
     height: 484px;
 }
+.para{
+    margin-top: 39px;
+}
+
